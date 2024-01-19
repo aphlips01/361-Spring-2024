@@ -26,7 +26,7 @@ library(knitr)
 
 After you submit the quiz, take a screenshot of the time stamp and Question 1. It should look something like this. 
 
-![](/Users/alanphlips/Desktop/Screenshot 2024-01-18 at 3.46.10.png)
+![](img/Screenshot 2024-01-18 at 3.46.10.png)
 
 Edit the above file name and path to show your screenshot and ensure that it appears when you knit your document. 
 
@@ -96,6 +96,7 @@ library(tidyverse)
 library(pubtheme)
 
 ```
+Note: there was no output/errors when I ran the above chunk as I had previously loaded all of the packages.
 
 #### 5. Check `gganimate`
 
@@ -127,7 +128,7 @@ There should be a static plot and an animated plot above.
 If the `anim_save` worked properly there should be a new `test.gif`
 in the `img` folder that has your name. Take a screen shot of your animated gif when the points are near the upper right and show the screenshot here: 
 
-![](/Users/alanphlips/Desktop/Screenshot 2024-01-18 at 4.01.32.png)
+![](img/Screenshot 2024-01-18 at 4.01.32.png)
 
 
 If all of that works, `gganimate` is good to go!  If that doesn't work, see the tips at https://bmacgtpm.github.io/notes/software-installation.html.
@@ -148,7 +149,7 @@ See https://bmacgtpm.github.io/notes/software-installation.html.
 Take a screenshot showing Github Desktop (or different software, or the command line) and show it here. 
 
 
-![](/Users/alanphlips/Desktop/Screenshot 2024-01-18 at 4.12.18.png)
+![](img/Screenshot 2024-01-18 at 4.12.18.png)
 
 If you have experience with Git/Github, and prefer to use different software or the command line, that's fine, but we may not be able to help if you have a problem.
 
@@ -162,7 +163,7 @@ If you find yourself getting many notification, you can go to https://github.com
 
 See https://bmacgtpm.github.io/notes/github-copilot-in-rstudio.html.  
 
-![](img/snip of GitHub Copilot.png)
+![](img/Screenshot 2024-01-19 at 10.38.26.png)
 
 If you use Github Copilot elsewhere, take a screenshot of whatever software you use.
 
